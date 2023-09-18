@@ -9,7 +9,7 @@ void add(Product product);
 void update(Product product);
 void delete(Product product);
 Product get(int id);
-List<Product> getall(int id);
+List<Product> getall();
 
 
 }
